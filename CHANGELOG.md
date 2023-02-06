@@ -1659,4 +1659,3 @@
 * flexible resource links ([822a66c](https://github.com/carbon-design-system/gatsby-theme-carbon/commit/822a66ca014ffd1d68baa580154778d30c047886))
 * make footer shadowable and add example ([dd7ccfb](https://github.com/carbon-design-system/gatsby-theme-carbon/commit/dd7ccfb642f00848f7b60129b91c71eed0560af4))
 * update anchor links ([f83d0a1](https://github.com/carbon-design-system/gatsby-theme-carbon/commit/f83d0a1b714800726f00fd1441446f0883dad659))
-
